@@ -6,6 +6,8 @@ This organization is a collective effort of the community to provide a collectio
 
 Here, you'll find a variety of Terraform modules catering to different needs and scenarios for Harvester deployments. Each module is self-contained, well-documented, and tested to ensure ease of use and reliability.
 
+- [Virtual Machine Terraform Module](https://registry.terraform.io/modules/terraform-harvester-modules/vm/harvester/latest)
+
 ## Contributions 🤝
 
 We warmly welcome contributions from the community. Whether you're looking to contribute a new module, improve existing ones, or just fix some bugs, your efforts are highly appreciated!
